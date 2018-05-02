@@ -1,4 +1,4 @@
 <?php
 $title = "test";
-include ("include/layout.php");
+include ("includes/layout.php");
 ?>
