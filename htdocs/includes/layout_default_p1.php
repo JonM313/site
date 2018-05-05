@@ -4,6 +4,6 @@
 	<?php include ("head.php"); ?>
   </head>
 	</body>
-	  <nav>
-		<?php include ("navingation.php"); ?>
+	  <nav class="navingation">
+		<?php include ("navigation.php"); ?>
 		</nav>
