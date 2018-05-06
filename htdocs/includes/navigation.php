@@ -10,5 +10,5 @@
     <li><a href="https://testconnect24.ml/status/mail">Wii Mail</a></li>
   </ul>
 </li>
-    <li><<a href="https://testconnect24.ml/faq">FAQ</a></li>
+    <li><a href="https://testconnect24.ml/faq">FAQ</a></li>
 </ul>
