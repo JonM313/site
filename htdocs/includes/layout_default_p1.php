@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 	<html>
-  <head>
+  	<head>
 	<?php include ("head.php"); ?>
-  </head>
+  	</head>
 	</body>
-	  <nav class="navingation">
+	<nav class="navigation">
+		<div navigation_wrapper>
 		<?php include ("navigation.php"); ?>
-		</nav>
+	</div>
+</nav>
